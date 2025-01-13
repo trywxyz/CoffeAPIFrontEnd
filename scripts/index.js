@@ -1,4 +1,4 @@
-import getDados from "./getDados.js";
+import getDados from "./getDados.js"; 
 
 const btnSortear = document.querySelector('.btn-sortear');
 const fichaDescricao = document.getElementById('ficha-descricao');
